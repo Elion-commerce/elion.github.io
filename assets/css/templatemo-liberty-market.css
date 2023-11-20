@@ -169,7 +169,7 @@ body {
   font-size: 14px;
   color: #080d4b;
   background-color: #eeeeee;
-  border: 1px solid #7453fc;
+  border: 1px solid #1c0e55;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 25px;
@@ -1471,8 +1471,8 @@ Explore Style
 .discover-items #search-form button {
   font-size: 14px;
   color: #fff;
-  background-color: #7453fc;
-  border: 1px solid #7453fc;
+  background-color: #6241e4;
+  border: 1px solid #3b1cb6;
   height: 46px;
   line-height: 46px;
   text-align: center;
@@ -1730,7 +1730,7 @@ Details Page Style
 .item-details-page form input {
   width: 100px;
   height: 46px;
-  border: 1px solid #7453fc;
+  border: 1px solid #3112ad;
   outline: none;
   border-radius: 23px;
   background-color: transparent;
@@ -1747,7 +1747,7 @@ Details Page Style
   font-size: 14px;
   color: #fff;
   background-color: #7453fc;
-  border: 1px solid #7453fc;
+  border: 1px solid #3114a3;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 25px;
