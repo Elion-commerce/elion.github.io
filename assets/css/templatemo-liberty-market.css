@@ -137,7 +137,7 @@ body {
   font-size: 14px;
   color: #0e144d;
   background-color:rgb(255, 255, 255) ;
-  border: 1px solid #ffffff;
+  border: 1px solid #201a7a;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 25px;
@@ -168,8 +168,8 @@ body {
 .main-button a {
   font-size: 14px;
   color: #080d4b;
-  background-color: #eeeeee;
-  border: 1px solid #1c0e55;
+  background-color: #ffffff;
+  border: 1px solid #2f149c;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 25px;
@@ -193,8 +193,8 @@ body {
 }
 
 .main-button a:hover {
-  background-color: #f1f1f1;
-  color: #0e144d;
+  background-color: #0e144d;
+  color: #f0f0f0;
   border: 1px solid #f5f5f5;
 }
 
@@ -1234,7 +1234,7 @@ Footer Style
 */
 
 footer {
-  background: rgb(125,90,254);
+  background: rgb(28, 9, 100);
   background: linear-gradient(132deg, rgb(6, 15, 90) 25%, rgb(21, 19, 105) 100%);
   text-align: center;
   padding: 25px 0px;
@@ -1893,7 +1893,7 @@ Author Page Style
   border: 1px solid #404245;
   padding: 20px 30px;
   border-radius: 20px;
-  margin-left: 100px;
+  margin-left: 50px;
 }
 
 .author-page .right-info .info-item {
